@@ -1,5 +1,5 @@
 {
-  "name": "m2m-client",
+  "name": "cs-dev-community-effective-vs-code",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -7,14 +7,11 @@
   "types": "./build/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "lint": "eslint \"**/*.ts*\"",
     "test": "vitest run",
     "type-check": "tsc --noEmit"
   },
   "devDependencies": {
     "@types/node": "20.14.15",
-    "eslint": "8.57.0",
-    "eslint-plugin-vitest-globals": "1.5.0",
     "typescript": "5.5.4",
     "vitest": "2.0.5"
   }
