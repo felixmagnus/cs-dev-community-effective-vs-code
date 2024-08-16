@@ -1,20 +1,20 @@
 {
-  "name": "cs-dev-community-effective-vs-code",
-  "version": "0.1.0",
-  "private": true,
-  "type": "module",
-  "exports": "./build/index.js",
-  "types": "./build/index.d.ts",
-  "scripts": {
-    "build": "tsc",
-    "lint": "biome check",
-    "test": "vitest run",
-    "type-check": "tsc --noEmit"
-  },
-  "devDependencies": {
-    "@biomejs/biome": "1.8.3",
-    "@types/node": "20.14.15",
-    "typescript": "5.5.4",
-    "vitest": "2.0.5"
-  }
+	"name": "cs-dev-community-effective-vs-code",
+	"version": "0.1.0",
+	"private": true,
+	"type": "module",
+	"exports": "./build/index.js",
+	"types": "./build/index.d.ts",
+	"scripts": {
+		"build": "tsc",
+		"lint": "biome check",
+		"test": "vitest run",
+		"type-check": "tsc --noEmit"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.8.3",
+		"@types/node": "20.14.15",
+		"typescript": "5.5.4",
+		"vitest": "2.0.5"
+	}
 }
