@@ -8,6 +8,6 @@
 
 // Now you have the files open beside each other
 
-// C1) Use Ctrl + Cmd + L-R-Arrows to move the focus to the other open editor group.
+// C1) Use Cmd + K + Cmd L-R-Arrows to move the focus to the other open editor group.
 
 // C3) Use Cmd + Shift + T to re-open the just closed tab.
