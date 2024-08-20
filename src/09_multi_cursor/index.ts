@@ -17,7 +17,7 @@ const x = () => {
 };
 
 // B) - Put your cursor before the word "hans"
-//    - Press Ctrl + Shift + Arrow-Down to spawn a new cursor below
+//    - Press Cmd + Option + Arrow-Down to spawn a new cursor below
 //    - Repeat until you have a cursor on each name
 //    - Using Shift + Option + Arrow-Right, select the name
 //    - Press Cmd + C to copy the names
