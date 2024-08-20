@@ -1,0 +1,1 @@
+To get started, run `pnpm install` and open the directory in vscode.
