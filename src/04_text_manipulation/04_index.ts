@@ -1,4 +1,4 @@
-// A) Use Cmd + Shift + D to duplicate the log statement
+// A) Use Option + Shift + Up-Down Arrows to duplicate the log statement
 
 // B) Use Option + Up-Down-Arrows to move the duplicated log statement into the condition
 
